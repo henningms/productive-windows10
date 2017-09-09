@@ -1,7 +1,11 @@
+
 # productive-windows10
 Tips, tricks, software etc to make you more productive using Windows 10. Aimed at developers
 
 # Setting up your dev environment
+
+## 0. Enable Developer Mode
+Open up Settings (**WinKey + I**) and head to *Updates and Security* (Check english version) -> *For Developers* and select Developer Mode. This will trigger Windows to setup your PC for Windows 10 development, but scroll down and you'll see common used settings that Windows can easily enable for you like Windows Explorer settings, Powershell and Remote Desktop. 
 
 ## 1. Virtual Desktops with Peach
 Windows 10 introduced virtual desktops that powerusers from the Mac and Linux world have been using for ages now. Virtual Desktops on Windows 10 still lacks features and/or keyboard shortcuts to make you efficient.
